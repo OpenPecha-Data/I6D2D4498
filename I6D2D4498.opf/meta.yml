@@ -1,0 +1,36 @@
+id: I6D2D4498
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:00:30.479277'
+last_modified: '2022-06-19T04:00:30.479290'
+parser: null
+source_metadata:
+  title: mKhyen brtse on the History of the Dharma, section on the Sakya tradition
+  author: འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2012-09); revised,
+    no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Volker Caumanns (vc), Jörg Heimbel (jh)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/278
+  bases:
+    3e4e:
+      title: mKhyen brtse on the History of the Dharma, section on the Sakya tradition
+      order: 1
+      base_file: 3e4e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
